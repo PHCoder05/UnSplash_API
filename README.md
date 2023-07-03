@@ -41,6 +41,7 @@ The Unsplash API site is developed using the following technologies:
 
 - HTML
 - CSS
+- Javascript
 
 ## API Usage
 
